@@ -1,0 +1,10 @@
+{
+  "description": "Provides accessible navigation and communication for users with total vision and hearing loss using tactile Braille displays, voice guidance, and customizable color modes.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
